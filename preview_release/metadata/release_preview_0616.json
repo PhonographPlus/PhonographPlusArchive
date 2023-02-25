@@ -1,0 +1,36 @@
+{
+    "tag_name": "preview_0616",
+    "git_hash": "eb6ff2968f7ce6118064cc78520dd867ff49e0f5",
+    "name": "preview_0616",
+    "prerelease": true,
+    "draft": false,
+    "body": "**Preview 2022.6.16**\n\n**CN**\n与前一预览版相比\n- 改进 改进新版文件夹视图（改进顶条外观，改进文件加载的可靠性与速度）\n- 开发 更新依赖（导致滚动条外观有所不同）\n- 开发 开始清理专辑详情页代码，计划重新设计\n\n**EN**\nCompared to the previous preview:\n- Improve: new Folders Page (top-bar appearance, reliability and speed of file loading)\n- Development: update dependencies (causing scrollbars to look different)\n- Development: clean up the code of Album Details Page, and begin to handle with the plan about redesigning",
+    "url": "https://api.github.com/repos/chr56/Phonograph_Plus/releases/69633341",
+    "html_url": "https://github.com/chr56/Phonograph_Plus/releases/tag/preview_0616",
+    "created_at": "2022-06-16T15:31:14Z",
+    "published_at": "2022-06-16T15:40:57Z",
+    "assets": [
+        {
+            "name": "mapping.txt",
+            "content_type": "text/plain",
+            "size": 5122124,
+            "browser_download_url": "https://github.com/chr56/Phonograph_Plus/releases/download/preview_0616/mapping.txt",
+            "download_count": 1,
+            "label": "",
+            "created_at": "2022-06-16T15:40:57Z",
+            "updated_at": "2022-06-16T15:40:58Z",
+            "url": "https://api.github.com/repos/chr56/Phonograph_Plus/releases/assets/68685210"
+        },
+        {
+            "name": "PhonographPlus_0.3.x-alpha02-preview-release-unsigned-signed.apk",
+            "content_type": "application/vnd.android.package-archive",
+            "size": 4752533,
+            "browser_download_url": "https://github.com/chr56/Phonograph_Plus/releases/download/preview_0616/PhonographPlus_0.3.x-alpha02-preview-release-unsigned-signed.apk",
+            "download_count": 6,
+            "label": "",
+            "created_at": "2022-06-16T15:40:57Z",
+            "updated_at": "2022-06-16T15:40:58Z",
+            "url": "https://api.github.com/repos/chr56/Phonograph_Plus/releases/assets/68685211"
+        }
+    ]
+}

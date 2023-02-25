@@ -1,0 +1,36 @@
+{
+    "tag_name": "preview_0310",
+    "git_hash": "0ff763c60f0e2ab9f9d81e920556109d33d123c6",
+    "name": "[CI]Preview: preview_0310",
+    "prerelease": true,
+    "draft": false,
+    "body": "**Preview 0.1.0RC2 2022.3.10**\r\n\r\n**注意:此版本仍然存在潜在问题, 谨慎使用**\r\n修复 媒体库页面头部白条布局异常\r\n开发 清理代码\r\n\r\n__上个预览版日志__\r\n\r\n修复 睡眠定时器在Android12上的崩溃\r\n开发 大幅度调整\"媒体库\"的UI,以便于维护(但部分还未完成)\r\n开发 调整代码结构,优化代码,清理依赖(需要出现设置主题配色)\r\n新增 添加清理旧版本历史残留文件配置功能(但是<del>仅从此版本开始记录历史包袱</del>)\r\n开发 极限混淆,实现Apk<del>小而美</del>\r\n\r\n**完整日志**: https://github.com/chr56/Phonograph_Plus/compare/preview_0303...preview_0310",
+    "url": "https://api.github.com/repos/chr56/Phonograph_Plus/releases/61452220",
+    "html_url": "https://github.com/chr56/Phonograph_Plus/releases/tag/preview_0310",
+    "created_at": "2022-03-10T02:36:13Z",
+    "published_at": "2022-03-10T02:42:27Z",
+    "assets": [
+        {
+            "name": "mapping.txt",
+            "content_type": "text/plain",
+            "size": 4183850,
+            "browser_download_url": "https://github.com/chr56/Phonograph_Plus/releases/download/preview_0310/mapping.txt",
+            "download_count": 3,
+            "label": "",
+            "created_at": "2022-03-10T02:42:27Z",
+            "updated_at": "2022-03-10T02:42:28Z",
+            "url": "https://api.github.com/repos/chr56/Phonograph_Plus/releases/assets/59068524"
+        },
+        {
+            "name": "preview_0.1.0RC2_0310_0239-signed.apk",
+            "content_type": "application/vnd.android.package-archive",
+            "size": 4694732,
+            "browser_download_url": "https://github.com/chr56/Phonograph_Plus/releases/download/preview_0310/preview_0.1.0RC2_0310_0239-signed.apk",
+            "download_count": 45,
+            "label": "",
+            "created_at": "2022-03-10T02:42:27Z",
+            "updated_at": "2022-03-10T02:42:28Z",
+            "url": "https://api.github.com/repos/chr56/Phonograph_Plus/releases/assets/59068523"
+        }
+    ]
+}

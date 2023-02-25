@@ -1,0 +1,36 @@
+{
+    "tag_name": "preview_0106",
+    "git_hash": "8df7b27c042b13aa1b690e952d3587ef6d16387e",
+    "name": "[CI]Preview: preview_0106",
+    "prerelease": true,
+    "draft": false,
+    "body": "**Preview  2022.1.6**\r\n\r\n__此版差不多是水更__\r\n\r\n**注意:此版本可能存在若干问题, 谨慎使用**\r\n\r\n开发 清理代码\r\n开发 移除ButterKnife\r\n开发 使用AGP 7.0.4 (以及Gradle7.1.1) 构建\r\n开发 升级Glide(3.8.0 -> 4.12.0), 可能引起若干封面加载问题\r\n\r\n完整日志详见: https://github.com/chr56/Phonograph_Plus/compare/v0.0.8...preview_0106",
+    "url": "https://api.github.com/repos/chr56/Phonograph_Plus/releases/56521821",
+    "html_url": "https://github.com/chr56/Phonograph_Plus/releases/tag/preview_0106",
+    "created_at": "2022-01-06T09:19:50Z",
+    "published_at": "2022-01-06T09:23:06Z",
+    "assets": [
+        {
+            "name": "mapping.txt",
+            "content_type": "text/plain",
+            "size": 4884883,
+            "browser_download_url": "https://github.com/chr56/Phonograph_Plus/releases/download/preview_0106/mapping.txt",
+            "download_count": 2,
+            "label": "",
+            "created_at": "2022-01-06T09:23:07Z",
+            "updated_at": "2022-01-06T09:23:08Z",
+            "url": "https://api.github.com/repos/chr56/Phonograph_Plus/releases/assets/53326170"
+        },
+        {
+            "name": "preview_0.0.8.Preview._0106_0921-signed.apk",
+            "content_type": "application/vnd.android.package-archive",
+            "size": 7143099,
+            "browser_download_url": "https://github.com/chr56/Phonograph_Plus/releases/download/preview_0106/preview_0.0.8.Preview._0106_0921-signed.apk",
+            "download_count": 4,
+            "label": "",
+            "created_at": "2022-01-06T09:23:07Z",
+            "updated_at": "2022-01-06T09:23:08Z",
+            "url": "https://api.github.com/repos/chr56/Phonograph_Plus/releases/assets/53326169"
+        }
+    ]
+}

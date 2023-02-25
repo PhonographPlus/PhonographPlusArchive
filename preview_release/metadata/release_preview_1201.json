@@ -1,0 +1,25 @@
+{
+    "tag_name": "preview_1201",
+    "git_hash": "77657d7efdccbfd8c6c81ae5c3024e46953c5cb1",
+    "name": "Preview 1201",
+    "prerelease": true,
+    "draft": false,
+    "body": "Preview 预览\r\n\r\n_该版本仅供体验_\r\n\r\n新增 允许关闭歌词广播\r\n修复 歌词文件匹配错误（现在歌词读取顺序为: 内嵌歌词 -> 同文件名的外载歌词 -> 有前后缀的同名的外载歌词）\r\n优化 代码",
+    "url": "https://api.github.com/repos/chr56/Phonograph_Plus/releases/54374591",
+    "html_url": "https://github.com/chr56/Phonograph_Plus/releases/tag/preview_1201",
+    "created_at": "2021-12-01T02:32:03Z",
+    "published_at": "2021-12-01T02:40:47Z",
+    "assets": [
+        {
+            "name": "preview_0.0.4_77657d7_1201_1033.apk",
+            "content_type": "application/vnd.android.package-archive",
+            "size": 7450642,
+            "browser_download_url": "https://github.com/chr56/Phonograph_Plus/releases/download/preview_1201/preview_0.0.4_77657d7_1201_1033.apk",
+            "download_count": 7,
+            "label": null,
+            "created_at": "2021-12-01T02:40:00Z",
+            "updated_at": "2021-12-01T02:40:47Z",
+            "url": "https://api.github.com/repos/chr56/Phonograph_Plus/releases/assets/50696080"
+        }
+    ]
+}

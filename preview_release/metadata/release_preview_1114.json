@@ -1,0 +1,25 @@
+{
+    "tag_name": "preview_1114",
+    "git_hash": "93fa3e104961edbd334824aa0ad5cddd6369a6fd",
+    "name": "Preview 1114",
+    "prerelease": true,
+    "draft": false,
+    "body": "Preview 预览\r\n\r\n_该版本仅供体验_\r\n\r\n1.移回播放列表编辑功能\r\n2.播放列表编辑功能独立至新活动（从播放列表详情右上角菜单内进入）\r\n3.Bug修复",
+    "url": "https://api.github.com/repos/chr56/Phonograph_Plus/releases/53324645",
+    "html_url": "https://github.com/chr56/Phonograph_Plus/releases/tag/preview_1114",
+    "created_at": "2021-11-14T06:27:43Z",
+    "published_at": "2021-11-14T06:32:23Z",
+    "assets": [
+        {
+            "name": "preview_11_14.93fa3e1.apk",
+            "content_type": "application/vnd.android.package-archive",
+            "size": 8932321,
+            "browser_download_url": "https://github.com/chr56/Phonograph_Plus/releases/download/preview_1114/preview_11_14.93fa3e1.apk",
+            "download_count": 2,
+            "label": null,
+            "created_at": "2021-11-14T06:31:49Z",
+            "updated_at": "2021-11-14T06:32:09Z",
+            "url": "https://api.github.com/repos/chr56/Phonograph_Plus/releases/assets/49368530"
+        }
+    ]
+}

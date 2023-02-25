@@ -1,0 +1,36 @@
+{
+    "tag_name": "preview_0403",
+    "git_hash": "124b5200b09f9c9e88329cfa10dc2de68f43c68a",
+    "name": "[Preview] preview_0403",
+    "prerelease": true,
+    "draft": false,
+    "body": "**Preview 0.2.0 2022.4.?**\r\n\r\n**CN**\r\n\r\n1. 开发 重构大量歌词相关代码\r\n2. 开发 清理主播放器UI代码, 改进性能\r\n3. 变更 重写歌词对话框\r\n4. 变更 增大歌词对话框大小\r\n5. 新增 歌词对话框支持选择歌词源(内嵌或外部)\r\n6. 新增 歌词对话框支持歌词随歌曲播放滚动(实验性)\r\n7. 修复 通知栏通知偶现的刷新不及时或信息错误(存疑)\r\n8. 新增 错误报告通知,仅记录并通知非紧要的内部错误以便调试\r\n9. 开发 尝试记录卡片式主播放器偶现的卡片错位现象\r\n10. 开发 关闭Glide部分无关紧要的日志输出\r\n11. 开发 清理代码\r\n12. \r\n\r\n**EN**\r\n\r\n1. Development: refactor most lyrics related code\r\n2. Development: Clean up the main player UI code, and improve its performance\r\n3. Change: rewrite lyrics dialog UI\r\n4. Change: increase size of the lyrics dialog\r\n5. New: manually select lyrics source (embedded or external) in lyrics dialog\r\n6. New: automatically lyrics scrolling along with song playback (experimental support)\r\n7. Fix: occasionally now-playing notification hasn't been refreshed in time or display incorrect song information in the notification bar (suspecting)\r\n8. New: error report notifications, only record and notify non-critical internal errors for better debugging\r\n9. Development: try to record occasionally error layout of playing queue card in the card main player\r\n10. Development: partially turns off annoying Glide irrelevant log output\r\n11. Development: cleanup code\r\n\r\n**Full Changelog**: https://github.com/chr56/Phonograph_Plus/compare/v0.1.2...preview_0403",
+    "url": "https://api.github.com/repos/chr56/Phonograph_Plus/releases/63463817",
+    "html_url": "https://github.com/chr56/Phonograph_Plus/releases/tag/preview_0403",
+    "created_at": "2022-04-03T10:58:51Z",
+    "published_at": "2022-04-03T11:05:25Z",
+    "assets": [
+        {
+            "name": "mapping.txt",
+            "content_type": "text/plain",
+            "size": 4499966,
+            "browser_download_url": "https://github.com/chr56/Phonograph_Plus/releases/download/preview_0403/mapping.txt",
+            "download_count": 2,
+            "label": "",
+            "created_at": "2022-04-03T11:05:25Z",
+            "updated_at": "2022-04-03T11:05:26Z",
+            "url": "https://api.github.com/repos/chr56/Phonograph_Plus/releases/assets/61416760"
+        },
+        {
+            "name": "preview_0.2.0_0403_1101-signed.apk",
+            "content_type": "application/vnd.android.package-archive",
+            "size": 4835115,
+            "browser_download_url": "https://github.com/chr56/Phonograph_Plus/releases/download/preview_0403/preview_0.2.0_0403_1101-signed.apk",
+            "download_count": 12,
+            "label": "",
+            "created_at": "2022-04-03T11:05:25Z",
+            "updated_at": "2022-04-03T11:05:26Z",
+            "url": "https://api.github.com/repos/chr56/Phonograph_Plus/releases/assets/61416759"
+        }
+    ]
+}

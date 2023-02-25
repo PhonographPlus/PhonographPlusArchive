@@ -1,0 +1,36 @@
+{
+    "tag_name": "preview_1224",
+    "git_hash": "4e6f41a9fc3f580571a8223899d4239ffef22463",
+    "name": "[CI]Preview: preview_1224",
+    "prerelease": true,
+    "draft": false,
+    "body": "**Preview 2021.12.?**\r\n尝试修复偶发的启动时崩溃",
+    "url": "https://api.github.com/repos/chr56/Phonograph_Plus/releases/55946165",
+    "html_url": "https://github.com/chr56/Phonograph_Plus/releases/tag/preview_1224",
+    "created_at": "2021-12-24T10:27:46Z",
+    "published_at": "2021-12-24T10:32:03Z",
+    "assets": [
+        {
+            "name": "mapping.txt",
+            "content_type": "text/plain",
+            "size": 4530081,
+            "browser_download_url": "https://github.com/chr56/Phonograph_Plus/releases/download/preview_1224/mapping.txt",
+            "download_count": 4,
+            "label": "",
+            "created_at": "2021-12-24T10:32:04Z",
+            "updated_at": "2021-12-24T10:32:04Z",
+            "url": "https://api.github.com/repos/chr56/Phonograph_Plus/releases/assets/52503395"
+        },
+        {
+            "name": "preview_0.0.7.Preview._1224_1030-signed.apk",
+            "content_type": "application/vnd.android.package-archive",
+            "size": 6931298,
+            "browser_download_url": "https://github.com/chr56/Phonograph_Plus/releases/download/preview_1224/preview_0.0.7.Preview._1224_1030-signed.apk",
+            "download_count": 5,
+            "label": "",
+            "created_at": "2021-12-24T10:32:04Z",
+            "updated_at": "2021-12-24T10:32:05Z",
+            "url": "https://api.github.com/repos/chr56/Phonograph_Plus/releases/assets/52503394"
+        }
+    ]
+}

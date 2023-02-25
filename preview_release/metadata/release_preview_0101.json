@@ -1,0 +1,36 @@
+{
+    "tag_name": "preview_0101",
+    "git_hash": "d02c6835bdbb11c85ed974119623df7edcc1c6b5",
+    "name": "[CI]Preview: preview_0101",
+    "prerelease": true,
+    "draft": false,
+    "body": "**Preview  2022.1.**\n开发 使用SDK31(Android12)开发\n变更 移动主界面右上角菜单中的“随机播放所有歌曲”至抽屉\n变更 移动播放列表页上的“新建播放列表”至右下角悬浮按钮\n新增 支持更多(潜在的)排序方式\n新增 将右上角排序方式与网格尺寸和合二为一, 并改进交互\n新增 快速添加黑名单, 在歌曲(或文件)弹出菜单中,新增“添加至黑名单”选项\n修复 设置中黑名单对话框添加新路径后未能刷新, 以及一系列稀奇古怪的问题\n改进 更新提示对话框, 允许忽略某个版本更新, 改进下载引导, 以及一系列可能的稀奇古怪的问题\n开发 清理代码（可能又弄坏了什么）",
+    "url": "https://api.github.com/repos/chr56/Phonograph_Plus/releases/56248541",
+    "html_url": "https://github.com/chr56/Phonograph_Plus/releases/tag/preview_0101",
+    "created_at": "2022-01-01T12:40:33Z",
+    "published_at": "2022-01-01T12:45:56Z",
+    "assets": [
+        {
+            "name": "mapping.txt",
+            "content_type": "text/plain",
+            "size": 4666630,
+            "browser_download_url": "https://github.com/chr56/Phonograph_Plus/releases/download/preview_0101/mapping.txt",
+            "download_count": 2,
+            "label": "",
+            "created_at": "2022-01-01T12:45:56Z",
+            "updated_at": "2022-01-01T12:45:57Z",
+            "url": "https://api.github.com/repos/chr56/Phonograph_Plus/releases/assets/52972276"
+        },
+        {
+            "name": "preview_0.0.8.Preview._0101_1243-signed.apk",
+            "content_type": "application/vnd.android.package-archive",
+            "size": 7038648,
+            "browser_download_url": "https://github.com/chr56/Phonograph_Plus/releases/download/preview_0101/preview_0.0.8.Preview._0101_1243-signed.apk",
+            "download_count": 2,
+            "label": "",
+            "created_at": "2022-01-01T12:45:56Z",
+            "updated_at": "2022-01-01T12:45:57Z",
+            "url": "https://api.github.com/repos/chr56/Phonograph_Plus/releases/assets/52972275"
+        }
+    ]
+}

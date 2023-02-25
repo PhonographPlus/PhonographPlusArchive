@@ -1,0 +1,25 @@
+{
+    "tag_name": "preview_1202",
+    "git_hash": "fde8a7ef40138691662758f40399c251a1cdb17e",
+    "name": "Preview 1202",
+    "prerelease": true,
+    "draft": false,
+    "body": "Preview 预览\r\n\r\n_该版本仅供体验_\r\n\r\n新增 允许关闭歌词广播\r\n修复 关闭歌词显示后，无法发送歌词广播\r\n修复 歌词文件匹配错误（现在歌词读取顺序为: 内嵌歌词 -> 同文件名的外载歌词 -> 有前后缀的同名的外载歌词）\r\n优化 代码\r\n变更 版本号不再带有 Git Commit Hash\r\n开发 增强代码混淆力度\r\n<del>开发 更换Github Actions 的CI构建签名</del>",
+    "url": "https://api.github.com/repos/chr56/Phonograph_Plus/releases/54502108",
+    "html_url": "https://github.com/chr56/Phonograph_Plus/releases/tag/preview_1202",
+    "created_at": "2021-12-02T14:45:21Z",
+    "published_at": "2021-12-02T14:51:54Z",
+    "assets": [
+        {
+            "name": "preview_0.0.3_1202_2246.apk",
+            "content_type": "application/vnd.android.package-archive",
+            "size": 6825073,
+            "browser_download_url": "https://github.com/chr56/Phonograph_Plus/releases/download/preview_1202/preview_0.0.3_1202_2246.apk",
+            "download_count": 6,
+            "label": null,
+            "created_at": "2021-12-02T14:50:55Z",
+            "updated_at": "2021-12-02T14:51:32Z",
+            "url": "https://api.github.com/repos/chr56/Phonograph_Plus/releases/assets/50837317"
+        }
+    ]
+}

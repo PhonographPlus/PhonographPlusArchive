@@ -1,0 +1,36 @@
+{
+    "tag_name": "preview_0605",
+    "git_hash": "637313d4c0d20d1d67afee8a3b38c258480d8319",
+    "name": "preview_0605",
+    "prerelease": true,
+    "draft": false,
+    "body": "**Preview 0.2.6-beta 2022.6.5**\r\n**Commit Changelog**: https://github.com/chr56/Phonograph_Plus/compare/v0.2.5...preview_0605\r\n\r\n**CN**\r\n1. 改进 播放列表的保存，并尝试修复无法保存位于实体存储卡的播放列表\r\n2. 新增 支持修改播放列表的操作方式(位于设置->兼容性->操作播放列表文件行为)，可强制使用SAF(或旧方法)操作播放列表\r\n3. 开发 升级 targetSdk 至 32 (Android12.1)\r\n\r\n**EN**\r\n1. Improve: saving of playlists, and try to fix playlists on PHYSICAL SD cards that could not be saved\r\n2. Add: allow to modify the operation behaviour of playlist files (located in Settings -> Compatibility -> Operational Behaviour for playlist files), which can force to use SAF (or the legacy method) to operate the playlist files\r\n3. Development: upgrade targetSdk to 32 (Android12.1)\r\n\r\n",
+    "url": "https://api.github.com/repos/chr56/Phonograph_Plus/releases/68658411",
+    "html_url": "https://github.com/chr56/Phonograph_Plus/releases/tag/preview_0605",
+    "created_at": "2022-06-05T06:19:54Z",
+    "published_at": "2022-06-05T06:25:46Z",
+    "assets": [
+        {
+            "name": "mapping_637313d4.txt",
+            "content_type": "text/plain",
+            "size": 5101408,
+            "browser_download_url": "https://github.com/chr56/Phonograph_Plus/releases/download/preview_0605/mapping_637313d4.txt",
+            "download_count": 2,
+            "label": null,
+            "created_at": "2022-06-05T06:28:49Z",
+            "updated_at": "2022-06-05T06:29:41Z",
+            "url": "https://api.github.com/repos/chr56/Phonograph_Plus/releases/assets/67588494"
+        },
+        {
+            "name": "PhonographPlus_0.2.6-beta-preview.apk",
+            "content_type": "application/vnd.android.package-archive",
+            "size": 4723750,
+            "browser_download_url": "https://github.com/chr56/Phonograph_Plus/releases/download/preview_0605/PhonographPlus_0.2.6-beta-preview.apk",
+            "download_count": 33,
+            "label": "",
+            "created_at": "2022-06-05T06:25:46Z",
+            "updated_at": "2022-06-05T06:29:45Z",
+            "url": "https://api.github.com/repos/chr56/Phonograph_Plus/releases/assets/67588323"
+        }
+    ]
+}

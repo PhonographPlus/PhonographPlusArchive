@@ -1,0 +1,36 @@
+{
+    "tag_name": "preview_0423",
+    "git_hash": "e374d18d3917128f99d9b4d1c8a89c99dee4c367",
+    "name": "preview_0423",
+    "prerelease": true,
+    "draft": false,
+    "body": "**Preview 0.2.4-beta 2022.4.23**\r\n\r\nThis is a **Preview** version.\r\n此为**预览版**！\r\nPreview versions might have potential bugs.\r\n注意可能存在潜在问题!\r\n\r\n**CN**\r\n1. 修复 专辑与艺术家页面下,歌曲与专辑或艺术家(在同一专辑但艺术家不同的情况下)配对(解析)错误\r\n2. 优化 专辑与艺术家解析机制(加载时间可能会延长)\r\n3. 新增 专辑与艺术家以及流派支持按歌曲(或专辑)数量排序\r\n4. 修复 歌曲在使用\"添加日期\"的排序依据下,滚动条不提示日期\r\n5. 改进 使用通知提示大多数耗时操作而不是各种对话框\r\n6. 改进 使用通知提示更多内部错误\r\n7. 开发 增强混淆\r\n8. 开发 清理代码, 替换所有AsyncTask\r\n\r\n**注意**\r\n1. 此次更新涉及存储播放队列数据库的改动,若发现当前播放队列异常,请清除数据\r\n2. 此次更新涉及排序方式设置的改动,需要重新设置排序方式\r\n\r\n\r\n\r\n**EN**\r\n1. Fix: an error in pairing (parsing) between songs and albums or artists (in the case of the same album but different artists) under the album and artist page\r\n2. Optimize: album and artist parsing mechanism (loading time may be extended)\r\n3. Add: albums and artists and genres to support sorting by number of songs (or albums)\r\n4. Fix: that the scroll bar does not prompt the date when the song is sorted by \"Add Date\"\r\n5. Improve: notifications for most time-consuming operations instead of various dialogs\r\n6. Improve: notification for more internal errors\r\n7. Development: Enhanced Obfuscation\r\n8. Development: clean up code, replace all AsyncTask\r\n\r\n**Note**\r\n1. This update involves changes to the storage play queue database. If you find that the current play queue is abnormal, please clear the data\r\n2. This update involves changes to the sorting method settings, and the sorting method needs to be reset\r\n\r\n**Commit Changelog**: https://github.com/chr56/Phonograph_Plus/compare/v0.2.3-RC2...preview_0423",
+    "url": "https://api.github.com/repos/chr56/Phonograph_Plus/releases/65145059",
+    "html_url": "https://github.com/chr56/Phonograph_Plus/releases/tag/preview_0423",
+    "created_at": "2022-04-23T12:58:06Z",
+    "published_at": "2022-04-23T13:04:37Z",
+    "assets": [
+        {
+            "name": "mapping.txt",
+            "content_type": "text/plain",
+            "size": 4676774,
+            "browser_download_url": "https://github.com/chr56/Phonograph_Plus/releases/download/preview_0423/mapping.txt",
+            "download_count": 5,
+            "label": "",
+            "created_at": "2022-04-23T13:04:38Z",
+            "updated_at": "2022-04-23T13:04:38Z",
+            "url": "https://api.github.com/repos/chr56/Phonograph_Plus/releases/assets/63423308"
+        },
+        {
+            "name": "PhonographPlus_0.2.4-beta-preview-unsigned-signed.apk",
+            "content_type": "application/vnd.android.package-archive",
+            "size": 4847477,
+            "browser_download_url": "https://github.com/chr56/Phonograph_Plus/releases/download/preview_0423/PhonographPlus_0.2.4-beta-preview-unsigned-signed.apk",
+            "download_count": 40,
+            "label": "",
+            "created_at": "2022-04-23T13:04:37Z",
+            "updated_at": "2022-04-23T13:04:38Z",
+            "url": "https://api.github.com/repos/chr56/Phonograph_Plus/releases/assets/63423307"
+        }
+    ]
+}

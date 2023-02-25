@@ -1,0 +1,36 @@
+{
+    "tag_name": "preview_0617",
+    "git_hash": "93f5779745cd03f966cb75e3fda63a744049a2de",
+    "name": "preview_0617",
+    "prerelease": true,
+    "draft": false,
+    "body": "**Preview 2022.6.16**\n\n**CN**\n与前一预览版相比:\n更新 葡萄牙语(巴西)翻译 (Luiz-bro), 印度尼西亚语翻译 (Raven Ell (@ ravenel))\n改进 改进新版文件夹视图, 包括:\n- 使用下拉刷新\n- 歌曲文件现在提示文件大小\n- 文件夹现在提示内含歌曲数量\n- 拦截返回键, 新文件夹视图下, 按下返回键后将返回上一级而不会退出应用\n- 防止进入无效存储设备\n- 允许按照文件名,文件大小,添加日期,修改日期排序\n\n\n**EN**\nCompared to the previous preview:\nTranslations: Update Portuguese (Brazil) (by Luiz-bro), Indonesian (by Raven Ell (@ ravenel))\nImprovements: The new Folder Page, including:\n- Use sweep-down-refresh\n- Song files indicate file size now\n- Folders indicate the number of songs they contain now\n- Intercept the back key: in the new Folder Page, pressing the back key will return to the previous level without exiting the application\n- Prevent access to invalid storage devices\n- Allow sorting files by file name, file size, date added, date modified",
+    "url": "https://api.github.com/repos/chr56/Phonograph_Plus/releases/69713345",
+    "html_url": "https://github.com/chr56/Phonograph_Plus/releases/tag/preview_0617",
+    "created_at": "2022-06-17T12:29:14Z",
+    "published_at": "2022-06-17T12:37:11Z",
+    "assets": [
+        {
+            "name": "mapping.txt",
+            "content_type": "text/plain",
+            "size": 5156866,
+            "browser_download_url": "https://github.com/chr56/Phonograph_Plus/releases/download/preview_0617/mapping.txt",
+            "download_count": 1,
+            "label": "",
+            "created_at": "2022-06-17T12:37:11Z",
+            "updated_at": "2022-06-17T12:37:12Z",
+            "url": "https://api.github.com/repos/chr56/Phonograph_Plus/releases/assets/68775704"
+        },
+        {
+            "name": "PhonographPlus_0.3.x-alpha03-preview-release-unsigned-signed.apk",
+            "content_type": "application/vnd.android.package-archive",
+            "size": 4764930,
+            "browser_download_url": "https://github.com/chr56/Phonograph_Plus/releases/download/preview_0617/PhonographPlus_0.3.x-alpha03-preview-release-unsigned-signed.apk",
+            "download_count": 12,
+            "label": "",
+            "created_at": "2022-06-17T12:37:11Z",
+            "updated_at": "2022-06-17T12:37:12Z",
+            "url": "https://api.github.com/repos/chr56/Phonograph_Plus/releases/assets/68775705"
+        }
+    ]
+}

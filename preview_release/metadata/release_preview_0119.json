@@ -1,0 +1,36 @@
+{
+    "tag_name": "preview_0119",
+    "git_hash": "864f30135f23104e6e280a2487a1676e20a87ca4",
+    "name": "[CI]Preview: preview_0119",
+    "prerelease": true,
+    "draft": false,
+    "body": "**Preview 0.1.0 2022.1.19**\r\n\r\n**注意:此版本问题<del>极多</del>, 谨慎使用**\r\n\r\n修复 播放列表更改(新建/改名/删除)后,未能及时刷新（仅限App内操作）\r\n\r\n改进 再删除播放列表失败后, 可尝试使用SAF(Storage Access Framework, 存储访问框架)授权目录后再次尝试删除（目前交互体验不佳, 且可能误删文件!!!）\r\n改进 使用SAF创建播放列表(包括新建空列表与保存播放器当前播放队列)\r\n改进 使用SAF复制(保存)播放列表(单个播放列表可自定义名称, 多个播放列表统一添加时间后缀并保存在所选同一目录下)\r\n改进 对于Android 10 (Q)以上版本用户, 使用SAF授权后再追加歌曲至已有播放列表（目前交互体验不佳）\r\n\r\n开发 清理代码\r\n开发 移除ButterKnife\r\n开发 使用AGP 7.0.4 (以及Gradle7.1.1) 构建\r\n开发 升级Glide(3.8.0 -> 4.12.0), 可能引起若干封面加载问题\r\n\r\n注意: 对于Android 10 (Q)以上版本用户, 播放列表的编辑(重新排序,移除歌曲)仍存在较大问题\r\n\r\n完整日志详见: [v0.0.8...preview_0119](https://github.com/chr56/Phonograph_Plus/compare/v0.0.8...preview_0119)",
+    "url": "https://api.github.com/repos/chr56/Phonograph_Plus/releases/57441782",
+    "html_url": "https://github.com/chr56/Phonograph_Plus/releases/tag/preview_0119",
+    "created_at": "2022-01-19T09:00:00Z",
+    "published_at": "2022-01-19T09:05:59Z",
+    "assets": [
+        {
+            "name": "mapping.txt",
+            "content_type": "text/plain",
+            "size": 4907572,
+            "browser_download_url": "https://github.com/chr56/Phonograph_Plus/releases/download/preview_0119/mapping.txt",
+            "download_count": 2,
+            "label": "",
+            "created_at": "2022-01-19T09:05:59Z",
+            "updated_at": "2022-01-19T09:06:00Z",
+            "url": "https://api.github.com/repos/chr56/Phonograph_Plus/releases/assets/54350744"
+        },
+        {
+            "name": "preview_0.1.0-Preview.Preview._0119_0903-signed.apk",
+            "content_type": "application/vnd.android.package-archive",
+            "size": 7167675,
+            "browser_download_url": "https://github.com/chr56/Phonograph_Plus/releases/download/preview_0119/preview_0.1.0-Preview.Preview._0119_0903-signed.apk",
+            "download_count": 11,
+            "label": "",
+            "created_at": "2022-01-19T09:05:59Z",
+            "updated_at": "2022-01-19T09:06:00Z",
+            "url": "https://api.github.com/repos/chr56/Phonograph_Plus/releases/assets/54350743"
+        }
+    ]
+}

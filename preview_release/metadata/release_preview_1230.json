@@ -1,0 +1,36 @@
+{
+    "tag_name": "preview_1230",
+    "git_hash": "6cd52bb7ee036d1c251dc6d8dba83d484bcfcfeb",
+    "name": "[CI]Preview: preview_1230",
+    "prerelease": true,
+    "draft": false,
+    "body": "**Preview 2021.12.30**\n新增 歌曲(或文件)弹出菜单中,新增“添加至黑名单”选项\n修复 设置中黑名单对话框添加新路径后未能刷新\n开发 使用SDK31(Android12)",
+    "url": "https://api.github.com/repos/chr56/Phonograph_Plus/releases/56191996",
+    "html_url": "https://github.com/chr56/Phonograph_Plus/releases/tag/preview_1230",
+    "created_at": "2021-12-30T14:25:40Z",
+    "published_at": "2021-12-30T14:29:02Z",
+    "assets": [
+        {
+            "name": "mapping.txt",
+            "content_type": "text/plain",
+            "size": 4657106,
+            "browser_download_url": "https://github.com/chr56/Phonograph_Plus/releases/download/preview_1230/mapping.txt",
+            "download_count": 2,
+            "label": "",
+            "created_at": "2021-12-30T14:29:03Z",
+            "updated_at": "2021-12-30T14:29:03Z",
+            "url": "https://api.github.com/repos/chr56/Phonograph_Plus/releases/assets/52861156"
+        },
+        {
+            "name": "preview_0.0.8.Preview._1230_1427-signed.apk",
+            "content_type": "application/vnd.android.package-archive",
+            "size": 7026193,
+            "browser_download_url": "https://github.com/chr56/Phonograph_Plus/releases/download/preview_1230/preview_0.0.8.Preview._1230_1427-signed.apk",
+            "download_count": 4,
+            "label": "",
+            "created_at": "2021-12-30T14:29:03Z",
+            "updated_at": "2021-12-30T14:29:04Z",
+            "url": "https://api.github.com/repos/chr56/Phonograph_Plus/releases/assets/52861157"
+        }
+    ]
+}

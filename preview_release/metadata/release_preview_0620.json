@@ -1,0 +1,36 @@
+{
+    "tag_name": "preview_0620",
+    "git_hash": "d4bf92f5321ed7eb2dd90e0aafe95b0509de0e65",
+    "name": "preview_0620",
+    "prerelease": true,
+    "draft": false,
+    "body": "**Preview 2022.6.20**\n\n**CN**\n与前一预览版相比:\n- 修复 黑名单失效（上一预览版开始）\n- 新增 文件夹视图现在使用可点击切换路径的路径导航条\n- 新增 现在可以使用旧式方法获取文件列表\n- 修复 多选时菜单图标颜色错误\n- 改进 小幅度重构专辑页面（过度动画目前暂时失效）\n- 改进 小幅度重构排序与网格设置UI\n\n\n**EN**\nCompared to the previous preview:\n- Fix: invalid blacklist (starting from last preview)\n- New: the Folder Page now uses a path navigation bar (or Bread-Crumb Bar) that can be clicked to switch paths\n- Add: the old method to get the file list now\n- Fix: wrong color of context menu icon when multiple selection\n- Improve: minor refactoring of the album page (BUG: transition animation is currently \"temporarily\" glitch)\n- Improve: minor refactoring of sort order and grid settings UI",
+    "url": "https://api.github.com/repos/chr56/Phonograph_Plus/releases/69860522",
+    "html_url": "https://github.com/chr56/Phonograph_Plus/releases/tag/preview_0620",
+    "created_at": "2022-06-20T15:14:19Z",
+    "published_at": "2022-06-20T15:28:55Z",
+    "assets": [
+        {
+            "name": "mapping.txt",
+            "content_type": "text/plain",
+            "size": 5171145,
+            "browser_download_url": "https://github.com/chr56/Phonograph_Plus/releases/download/preview_0620/mapping.txt",
+            "download_count": 1,
+            "label": "",
+            "created_at": "2022-06-20T15:28:56Z",
+            "updated_at": "2022-06-20T15:28:56Z",
+            "url": "https://api.github.com/repos/chr56/Phonograph_Plus/releases/assets/69041333"
+        },
+        {
+            "name": "PhonographPlus_0.3.x-alpha04-preview-release-unsigned-signed.apk",
+            "content_type": "application/vnd.android.package-archive",
+            "size": 4773178,
+            "browser_download_url": "https://github.com/chr56/Phonograph_Plus/releases/download/preview_0620/PhonographPlus_0.3.x-alpha04-preview-release-unsigned-signed.apk",
+            "download_count": 8,
+            "label": "",
+            "created_at": "2022-06-20T15:28:55Z",
+            "updated_at": "2022-06-20T15:28:56Z",
+            "url": "https://api.github.com/repos/chr56/Phonograph_Plus/releases/assets/69041332"
+        }
+    ]
+}

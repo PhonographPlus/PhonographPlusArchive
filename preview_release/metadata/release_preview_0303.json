@@ -1,0 +1,36 @@
+{
+    "tag_name": "preview_0303",
+    "git_hash": "82a4113ce5333d6b35cc4ce213972ac0fcf78eaf",
+    "name": "[CI]Preview: preview_0303",
+    "prerelease": true,
+    "draft": false,
+    "body": "**Preview 0.1.0RC1 2022.3.3**\r\n\r\n**注意:此版本问题仍然<del>极多</del>, 谨慎使用**\r\n\r\n**此版本需要重新设置主题配色**\r\n\r\n修复 睡眠定时器在Android12上的崩溃\r\n开发 大幅度调整\"媒体库\"的UI,以便于维护(但部分还未完成)\r\n开发 调整代码结构,优化代码,清理依赖(需要出现设置主题配色)\r\n新增 添加清理旧版本历史残留文件配置功能(但是<del>仅从此版本开始记录历史包袱</del>)\r\n开发 极限混淆,实现Apk<del>小而美</del>\r\n\r\n\r\n__上个预览版日志__\r\n\r\n修复 播放列表更改(新建/改名/删除)后,未能及时刷新（仅限App内操作）\r\n\r\n改进 再删除播放列表失败后, 可尝试使用SAF(Storage Access Framework, 存储访问框架)授权目录后再次尝试删除（目前交互体验不佳, 且可能误删文件!!!）\r\n改进 对于Android 10 (Q)以上版本用户, 使用SAF创建播放列表(包括新建空列表与保存播放器当前播放队列)\r\n改进 使用SAF复制(保存)播放列表(单个播放列表可自定义名称, 多个播放列表同意添加时间后缀并保存在所选同一目录下)\r\n改进 对于Android 10 (Q)以上版本用户, 使用SAF授权后再追加歌曲至已有播放列表（目前交互体验不佳）\r\n\r\n开发 清理代码\r\n开发 移除ButterKnife\r\n开发 使用AGP 7.0.4 (以及Gradle7.1.1) 构建\r\n开发 升级Glide(3.8.0 -> 4.12.0), 可能引起若干封面加载问题\r\n\r\n注意: 对于Android 10 (Q)以上版本用户, 播放列表的编辑(重新排序,移除歌曲)仍存在较大问题\r\n\r\n**完整日志**: [review_0119...preview_0303](https://github.com/chr56/Phonograph_Plus/compare/preview_0119...preview_0303)",
+    "url": "https://api.github.com/repos/chr56/Phonograph_Plus/releases/60893653",
+    "html_url": "https://github.com/chr56/Phonograph_Plus/releases/tag/preview_0303",
+    "created_at": "2022-03-03T14:08:55Z",
+    "published_at": "2022-03-03T14:32:40Z",
+    "assets": [
+        {
+            "name": "mapping.txt",
+            "content_type": "text/plain",
+            "size": 4138154,
+            "browser_download_url": "https://github.com/chr56/Phonograph_Plus/releases/download/preview_0303/mapping.txt",
+            "download_count": 5,
+            "label": "",
+            "created_at": "2022-03-03T14:32:40Z",
+            "updated_at": "2022-03-03T14:32:41Z",
+            "url": "https://api.github.com/repos/chr56/Phonograph_Plus/releases/assets/58448472"
+        },
+        {
+            "name": "preview_0.1.0RC1_0303_1428-signed.apk",
+            "content_type": "application/vnd.android.package-archive",
+            "size": 4690635,
+            "browser_download_url": "https://github.com/chr56/Phonograph_Plus/releases/download/preview_0303/preview_0.1.0RC1_0303_1428-signed.apk",
+            "download_count": 15,
+            "label": "",
+            "created_at": "2022-03-03T14:32:40Z",
+            "updated_at": "2022-03-03T14:32:41Z",
+            "url": "https://api.github.com/repos/chr56/Phonograph_Plus/releases/assets/58448471"
+        }
+    ]
+}

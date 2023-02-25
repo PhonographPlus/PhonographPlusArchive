@@ -1,0 +1,25 @@
+{
+    "tag_name": "preview_1109",
+    "git_hash": "10bfebf3130da1b005773aa4d349c660652db9c0",
+    "name": "Preview 1109",
+    "prerelease": true,
+    "draft": false,
+    "body": "Preview 预览\r\n\r\n_该版本仅供体验_\r\n\r\n1. 改进 歌曲与播放列表读取\r\n2. 变更 播放列表现在支持黑名单, 无名播放列表(\"幽灵\"播放列表)不再显示\r\n3. 变更 现在通过 SAF(Storage Access Framework, 存储访问框架) 另保存播放列表 (若同时保存多个, 则仍保存至/Download)\r\n4. 改进 网络状态检测\r\n5. 新增 检查更新\r\n6. 新增 检查更新对话框\r\n7. 新增 适配\"[MIUI状态栏歌词](github.com/xiaowine/miui.statusbar.lyric)\"Xposed模块\r\n8. 开发 轻度重构歌曲的 _弹出菜单_ ，请协助测试反馈歌曲菜单\r\n9. 开发 大幅度重构 _“播放列表”_ 活动，请协助测试反馈播放列表\r\n10. 移除 **暂时移除播放列表编辑功能**\r\n11. 开发 轻度重构大量 _设置相关_ 代码，请协助测试反馈任何与此应用设置有关页面组件等\r\n",
+    "url": "https://api.github.com/repos/chr56/Phonograph_Plus/releases/52993931",
+    "html_url": "https://github.com/chr56/Phonograph_Plus/releases/tag/preview_1109",
+    "created_at": "2021-11-09T04:52:27Z",
+    "published_at": "2021-11-09T11:25:29Z",
+    "assets": [
+        {
+            "name": "Phonograph.Plus.Preview-2021-11-09.apk",
+            "content_type": "application/vnd.android.package-archive",
+            "size": 8918863,
+            "browser_download_url": "https://github.com/chr56/Phonograph_Plus/releases/download/preview_1109/Phonograph.Plus.Preview-2021-11-09.apk",
+            "download_count": 3,
+            "label": null,
+            "created_at": "2021-11-09T11:19:18Z",
+            "updated_at": "2021-11-09T11:19:25Z",
+            "url": "https://api.github.com/repos/chr56/Phonograph_Plus/releases/assets/48979991"
+        }
+    ]
+}

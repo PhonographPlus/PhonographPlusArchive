@@ -1,0 +1,25 @@
+{
+    "tag_name": "preview_1222",
+    "git_hash": "3e9679c59c575abc26375de5a204ed14d9a7dea4",
+    "name": "[CI]Preview: preview_1222",
+    "prerelease": true,
+    "draft": false,
+    "body": "**Preview 2021.12.?**\n变更 启动时检查更新使用通知提示，防止凭空弹出对话框引起崩溃",
+    "url": "https://api.github.com/repos/chr56/Phonograph_Plus/releases/55810070",
+    "html_url": "https://github.com/chr56/Phonograph_Plus/releases/tag/preview_1222",
+    "created_at": "2021-12-22T09:29:51Z",
+    "published_at": "2021-12-22T09:33:07Z",
+    "assets": [
+        {
+            "name": "preview_0.0.6_1222_0931-signed.apk",
+            "content_type": "application/vnd.android.package-archive",
+            "size": 6927202,
+            "browser_download_url": "https://github.com/chr56/Phonograph_Plus/releases/download/preview_1222/preview_0.0.6_1222_0931-signed.apk",
+            "download_count": 14,
+            "label": "",
+            "created_at": "2021-12-22T09:33:07Z",
+            "updated_at": "2021-12-22T09:33:08Z",
+            "url": "https://api.github.com/repos/chr56/Phonograph_Plus/releases/assets/52343604"
+        }
+    ]
+}

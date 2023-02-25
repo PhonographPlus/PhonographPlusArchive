@@ -1,0 +1,36 @@
+{
+    "tag_name": "preview_0630",
+    "git_hash": "13777e535cc4e8a3d52bd94339244c8410dcd3cc",
+    "name": "preview_0630",
+    "prerelease": true,
+    "draft": false,
+    "body": "**Preview 2022.6.30**\r\n**Commit log**: https://github.com/chr56/Phonograph_Plus/compare/preview_0627...preview_0630\r\n\r\n**CN**\r\n与前一预览版相比:\r\n- 修复 播放列表歌曲封面必不显示\r\n- 修复 \"最常听的歌曲\"为空时无法刷新\r\n- 开发 重构大量历史代码 (可能出现状态栏等色彩异常, 多选模式异常等问题,请及时反馈)\r\n\r\n预览版对比稳定版新增功能汇总:\r\n- 新增 全新的文件夹视图: \r\n— 与媒体库其他视图并列; \r\n— 从MediaStore读取歌曲文件(可大幅改善在Android10以上的性能), 当然也可以使用旧方式; \r\n— 尝试完全支持浏览外部可移除存储设备(如SD卡等); \r\n— 使用下拉刷新;\r\n— 允许按照文件名,文件大小,添加日期,修改日期排序;\r\n- 改进 重构播放列表详情, 简化编辑\r\n- 改进 \"最常听的歌曲\"计算方法\r\n- 新增 支持刷新并重新计算\"最常听的歌曲\"播放列表\r\n- 修复 多选时菜单图标颜色错误\r\n- 改进 小幅度重构专辑页面\r\n- 开发 更新依赖（导致滚动条外观有所不同）\r\n- 开发 重构大量历史代码, 包括\r\n— 专辑详情\r\n— 播放列表详情\r\n— 文件扫描\r\n— 排序\r\n— 列表控制菜单\r\n— 主题控制(可能出现状态栏等色彩异常)\r\n— 多选模式(可能发生异常)\r\n— 播放器托盘\r\n\r\n已知问题:\r\n- 专辑详情转场动画异常\r\n- 艺术家详情多选冲突\r\n- 文件视图路径现阶段不显示历史记录\r\n\r\n**EN**\r\nCompared to the previous preview:\r\n- Fix: covers of playlist songs not loading\r\n- Fix: \"My Top Tracks\" could not be refreshed when empty\r\n- Development: refactoring of plenty of historical codes (may have bugs such as abnormal status bar color or glitch behavior in multi-selection mode, please provide feedback in time)\r\n\r\nNew features added in Preview since latest Stable:\r\n- Add: a brand new Folders Page: \r\n— Among with other pages of the Library; \r\n— Read song files from MediaStore (significantly better performance on Android 10 and above), but you can still use old method to read song files; \r\n— (Try to) fully support browsing external removable storage devices (such as SD cards, etc.);\r\n— Use sweep-down-refresh;\r\n— Allow sorting files by file name, file size, date added, date modified;\r\n- Improve: refactor Playlist Detail and simplify editing\r\n- Improve: calculation for \"My Top Tracks\"\r\n- Add: support for force to refresh and recalculate \"My Top Tracks\" playlists\r\n- Fix: wrong color of context menu icon when multiple selection\r\n- Improve: minor refactoring of the album page\r\n- Development: clean up the code of Album Details Page, and begin to handle with the plan about redesigning\r\n- Development: refactoring of plenty of historical codes, including\r\n— Album Detail\r\n— Playlist Detail\r\n— File Scanning\r\n— Sort Order\r\n— List Appearance Popup Menu\r\n— Theme (may have bugs such as abnormal status bar color)\r\n— Multi-selection (may have glitch behavior)\r\n— Sliding Player Panel\r\n\r\nKnown Issues:\r\n- Glitch Album Detail Transition Animation\r\n- Multi-selection confliction in Artist Detail\r\n- No path history for brand new File Page (currently)\r\n",
+    "url": "https://api.github.com/repos/chr56/Phonograph_Plus/releases/70984999",
+    "html_url": "https://github.com/chr56/Phonograph_Plus/releases/tag/preview_0630",
+    "created_at": "2022-06-30T14:24:25Z",
+    "published_at": "2022-06-30T14:31:24Z",
+    "assets": [
+        {
+            "name": "mapping-13777e5.txt",
+            "content_type": "text/plain",
+            "size": 5144789,
+            "browser_download_url": "https://github.com/chr56/Phonograph_Plus/releases/download/preview_0630/mapping-13777e5.txt",
+            "download_count": 2,
+            "label": "",
+            "created_at": "2022-06-30T14:31:25Z",
+            "updated_at": "2022-06-30T14:36:04Z",
+            "url": "https://api.github.com/repos/chr56/Phonograph_Plus/releases/assets/70161841"
+        },
+        {
+            "name": "PhonographPlus_0.3-alpha06-preview.apk",
+            "content_type": "application/vnd.android.package-archive",
+            "size": 4768632,
+            "browser_download_url": "https://github.com/chr56/Phonograph_Plus/releases/download/preview_0630/PhonographPlus_0.3-alpha06-preview.apk",
+            "download_count": 35,
+            "label": "",
+            "created_at": "2022-06-30T14:31:25Z",
+            "updated_at": "2022-06-30T14:36:04Z",
+            "url": "https://api.github.com/repos/chr56/Phonograph_Plus/releases/assets/70161840"
+        }
+    ]
+}
