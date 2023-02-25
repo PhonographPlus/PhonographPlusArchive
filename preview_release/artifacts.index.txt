@@ -1,0 +1,216 @@
+
+|-- preview_0101
+|   |           `-- mapping.txt
+|               `-- preview_0.0.8.Preview._0101_1243-signed.apk
+|-- preview_0106
+|   |           `-- mapping.txt
+|               `-- preview_0.0.8.Preview._0106_0921-signed.apk
+|-- preview_0118
+|   |           `-- mapping.txt
+|               `-- preview_0.1.0-Preview.Preview._0118_0951-signed.apk
+|-- preview_0119
+|   |           `-- mapping.txt
+|               `-- preview_0.1.0-Preview.Preview._0119_0903-signed.apk
+|-- preview_0303
+|   |           `-- mapping.txt
+|               `-- preview_0.1.0RC1_0303_1428-signed.apk
+|-- preview_0310
+|   |           `-- mapping.txt
+|               `-- preview_0.1.0RC2_0310_0239-signed.apk
+|-- preview_0403
+|   |           `-- mapping.txt
+|               `-- preview_0.2.0_0403_1101-signed.apk
+|-- preview_0423
+|   |           `-- PhonographPlus_0.2.4-beta-preview-unsigned-signed.apk
+|               `-- mapping.txt
+|-- preview_0605
+|   |           `-- PhonographPlus_0.2.6-beta-preview.apk
+|               `-- mapping_637313d4.txt
+|-- preview_0610
+|   |           `-- PhonographPlus_0.3.x-alpha01-preview-release-unsigned-signed.apk
+|               `-- mapping.txt
+|-- preview_0616
+|   |           `-- PhonographPlus_0.3.x-alpha02-preview-release-unsigned-signed.apk
+|               `-- mapping.txt
+|-- preview_0617
+|   |           `-- PhonographPlus_0.3.x-alpha03-preview-release-unsigned-signed.apk
+|               `-- mapping.txt
+|-- preview_0620
+|   |           `-- PhonographPlus_0.3.x-alpha04-preview-release-unsigned-signed.apk
+|               `-- mapping.txt
+|-- preview_0627
+|   |           `-- PhonographPlus_0.3-alpha05-preview-release-unsigned-signed.apk
+|               `-- mapping.txt
+|-- preview_0630
+|   |           `-- PhonographPlus_0.3-alpha06-preview.apk
+|               `-- mapping-13777e5.txt
+|-- preview_1109
+|               `-- Phonograph.Plus.Preview-2021-11-09.apk
+|-- preview_1114
+|               `-- preview_11_14.93fa3e1.apk
+|-- preview_1201
+|               `-- preview_0.0.4_77657d7_1201_1033.apk
+|-- preview_1202
+|               `-- preview_0.0.3_1202_2246.apk
+|-- preview_1219
+|               `-- preview_0.0.6_1219_1107-signed.apk
+|-- preview_1222
+|               `-- preview_0.0.6_1222_0931-signed.apk
+|-- preview_1224
+|   |           `-- mapping.txt
+|               `-- preview_0.0.7.Preview._1224_1030-signed.apk
+|-- preview_1224_hotfix
+|   |           `-- mapping.txt
+|               `-- preview_0.0.7.Preview._1224_1451-signed.apk
+|-- preview_1230
+|   |           `-- mapping.txt
+|               `-- preview_0.0.8.Preview._1230_1427-signed.apk
+`-- preview_1231
+    |           `-- mapping.txt
+                `-- preview_0.0.8.Preview._1231_0824-signed.apk
+
+
+Dir:preview_0101
+Name                                                                                       
+mapping.txt                                                                                 	4666630
+preview_0.0.8.Preview._0101_1243-signed.apk                                                 	7038648
+
+
+Dir:preview_0106
+Name                                                                                       
+mapping.txt                                                                                 	4884883
+preview_0.0.8.Preview._0106_0921-signed.apk                                                 	7143099
+
+
+Dir:preview_0118
+Name                                                                                       
+mapping.txt                                                                                 	4901616
+preview_0.1.0-Preview.Preview._0118_0951-signed.apk                                         	7163579
+
+
+Dir:preview_0119
+Name                                                                                       
+mapping.txt                                                                                 	4907572
+preview_0.1.0-Preview.Preview._0119_0903-signed.apk                                         	7167675
+
+
+Dir:preview_0303
+Name                                                                                       
+mapping.txt                                                                                 	4138154
+preview_0.1.0RC1_0303_1428-signed.apk                                                       	4690635
+
+
+Dir:preview_0310
+Name                                                                                       
+mapping.txt                                                                                 	4183850
+preview_0.1.0RC2_0310_0239-signed.apk                                                       	4694732
+
+
+Dir:preview_0403
+Name                                                                                       
+mapping.txt                                                                                 	4499966
+preview_0.2.0_0403_1101-signed.apk                                                          	4835115
+
+
+Dir:preview_0423
+Name                                                                                       
+mapping.txt                                                                                 	4676774
+PhonographPlus_0.2.4-beta-preview-unsigned-signed.apk                                       	4847477
+
+
+Dir:preview_0605
+Name                                                                                       
+mapping_637313d4.txt                                                                        	5101408
+PhonographPlus_0.2.6-beta-preview.apk                                                       	4723750
+
+
+Dir:preview_0610
+Name                                                                                       
+mapping.txt                                                                                 	5118673
+PhonographPlus_0.3.x-alpha01-preview-release-unsigned-signed.apk                            	4748437
+
+
+Dir:preview_0616
+Name                                                                                       
+mapping.txt                                                                                 	5122124
+PhonographPlus_0.3.x-alpha02-preview-release-unsigned-signed.apk                            	4752533
+
+
+Dir:preview_0617
+Name                                                                                       
+mapping.txt                                                                                 	5156866
+PhonographPlus_0.3.x-alpha03-preview-release-unsigned-signed.apk                            	4764930
+
+
+Dir:preview_0620
+Name                                                                                       
+mapping.txt                                                                                 	5171145
+PhonographPlus_0.3.x-alpha04-preview-release-unsigned-signed.apk                            	4773178
+
+
+Dir:preview_0627
+Name                                                                                       
+mapping.txt                                                                                 	5178112
+PhonographPlus_0.3-alpha05-preview-release-unsigned-signed.apk                              	4777274
+
+
+Dir:preview_0630
+Name                                                                                       
+mapping-13777e5.txt                                                                         	5144789
+PhonographPlus_0.3-alpha06-preview.apk                                                      	4768632
+
+
+Dir:preview_1109
+Name                                                                                       
+Phonograph.Plus.Preview-2021-11-09.apk                                                      	8918863
+
+
+Dir:preview_1114
+Name                                                                                       
+preview_11_14.93fa3e1.apk                                                                   	8932321
+
+
+Dir:preview_1201
+Name                                                                                       
+preview_0.0.4_77657d7_1201_1033.apk                                                         	7450642
+
+
+Dir:preview_1202
+Name                                                                                       
+preview_0.0.3_1202_2246.apk                                                                 	6825073
+
+
+Dir:preview_1219
+Name                                                                                       
+preview_0.0.6_1219_1107-signed.apk                                                          	6927202
+
+
+Dir:preview_1222
+Name                                                                                       
+preview_0.0.6_1222_0931-signed.apk                                                          	6927202
+
+
+Dir:preview_1224
+Name                                                                                       
+mapping.txt                                                                                 	4530081
+preview_0.0.7.Preview._1224_1030-signed.apk                                                 	6931298
+
+
+Dir:preview_1224_hotfix
+Name                                                                                       
+mapping.txt                                                                                 	4530083
+preview_0.0.7.Preview._1224_1451-signed.apk                                                 	6927202
+
+
+Dir:preview_1230
+Name                                                                                       
+mapping.txt                                                                                 	4657106
+preview_0.0.8.Preview._1230_1427-signed.apk                                                 	7026193
+
+
+Dir:preview_1231
+Name                                                                                       
+mapping.txt                                                                                 	4660098
+preview_0.0.8.Preview._1231_0824-signed.apk                                                 	7030289
+
+
