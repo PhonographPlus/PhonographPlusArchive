@@ -1,6 +1,7 @@
 {
     "tag_name": "preview_1224_hotfix",
     "git_hash": "97ec53727e0ae62f9332e68c7bda48b2542b88ea",
+    "id": 55956088,
     "name": "[CI]Preview: preview_1224_hotfix",
     "prerelease": true,
     "draft": false,
